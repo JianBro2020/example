@@ -1,2 +1,2 @@
 # example
-this is an example repository which I added in the process of learning how to use Github 
+I have modified this README.md file in my local repository. 
